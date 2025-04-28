@@ -1,7 +1,6 @@
 package com.testing.software.questao1;
 
 import lombok.Getter;
-import lombok.Setter;
 
 // Construa uma classe chamada Triangulo. Ela deve ter: 
 // (a) um construtor que recebe os 3 lados de um triângulo, e lança a exceção NaoTrianguloException caso os 3 lados nao formem um triângulo;
