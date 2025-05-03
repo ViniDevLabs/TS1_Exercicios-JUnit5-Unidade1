@@ -1,4 +1,4 @@
-package questao3;
+package questao03;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -8,8 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import com.testing.software.questao3.Filme;
-import com.testing.software.questao3.FilmeNaoValidoException;
+import com.testing.software.questao03.Filme;
+import com.testing.software.questao03.FilmeNaoValidoException;
 
 class FilmeTest {
 

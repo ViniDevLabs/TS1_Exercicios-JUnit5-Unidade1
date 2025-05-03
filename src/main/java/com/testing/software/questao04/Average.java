@@ -1,4 +1,4 @@
-package com.testing.software.questao4;
+package com.testing.software.questao04;
 
 // Escreva testes parametrizados para o exemplo abaixo.
 

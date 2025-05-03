@@ -1,4 +1,4 @@
-package questao6;
+package questao06;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -10,9 +10,9 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import com.testing.software.questao6.AreaCursoEnum;
-import com.testing.software.questao6.IngressoNaUFRNPeloSisu;
-import com.testing.software.questao6.InscricaoIrregularException;
+import com.testing.software.questao06.AreaCursoEnum;
+import com.testing.software.questao06.IngressoNaUFRNPeloSisu;
+import com.testing.software.questao06.InscricaoIrregularException;
 
 class IngressoNaUFRNPeloSisuTest {
 

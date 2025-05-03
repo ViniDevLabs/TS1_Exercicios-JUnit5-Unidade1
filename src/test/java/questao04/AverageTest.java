@@ -1,4 +1,4 @@
-package questao4;
+package questao04;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -8,7 +8,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import com.testing.software.questao4.Average;
+import com.testing.software.questao04.Average;
 
 class AverageTest {
 

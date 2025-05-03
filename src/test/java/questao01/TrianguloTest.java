@@ -1,10 +1,10 @@
-package questao1;
+package questao01;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import com.testing.software.questao1.NaoTrianguloException;
-import com.testing.software.questao1.Triangulo;
+import com.testing.software.questao01.NaoTrianguloException;
+import com.testing.software.questao01.Triangulo;
 
 import org.junit.jupiter.params.provider.Arguments;
 

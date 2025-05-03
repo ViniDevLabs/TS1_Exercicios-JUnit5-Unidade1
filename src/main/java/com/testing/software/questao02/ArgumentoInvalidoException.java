@@ -1,4 +1,4 @@
-package com.testing.software.questao2;
+package com.testing.software.questao02;
 
 public class ArgumentoInvalidoException extends Exception {
 

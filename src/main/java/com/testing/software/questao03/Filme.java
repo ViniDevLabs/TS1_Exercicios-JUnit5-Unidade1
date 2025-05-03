@@ -1,4 +1,4 @@
-package com.testing.software.questao3;
+package com.testing.software.questao03;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

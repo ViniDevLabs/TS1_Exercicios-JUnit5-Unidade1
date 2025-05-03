@@ -1,4 +1,4 @@
-package questao5;
+package questao05;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -10,8 +10,8 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import com.testing.software.questao5.AlunoAprovado;
-import com.testing.software.questao5.MediaInvalidaException;
+import com.testing.software.questao05.AlunoAprovado;
+import com.testing.software.questao05.MediaInvalidaException;
 
 class AlunoAprovadoTest {
 

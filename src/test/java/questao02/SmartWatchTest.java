@@ -1,10 +1,10 @@
-package questao2;
+package questao02;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 
-import com.testing.software.questao2.ArgumentoInvalidoException;
-import com.testing.software.questao2.SmartWatch;
+import com.testing.software.questao02.ArgumentoInvalidoException;
+import com.testing.software.questao02.SmartWatch;
 
 import org.junit.jupiter.params.provider.Arguments;
 

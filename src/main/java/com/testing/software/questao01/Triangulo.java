@@ -1,4 +1,4 @@
-package com.testing.software.questao1;
+package com.testing.software.questao01;
 
 import lombok.Getter;
 

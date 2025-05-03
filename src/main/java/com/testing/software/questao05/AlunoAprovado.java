@@ -1,4 +1,4 @@
-package com.testing.software.questao5;
+package com.testing.software.questao05;
 
 /* a) Refatore a classe para lançar uma exceção MediaInvalidaException caso uma das notas seja negativa. 
  * b) Após o reparo, realize testes parametrizados utilizando JUnit, e que trabalhe as 3 situações existentes retornadas pela String situacao.
