@@ -13,12 +13,4 @@ public class EquivalenciaModular {
   public static boolean calcularEquivalencia(int a, int b, int m) {
     return (a % m) == (b % m);
   }
-
-  public static void main(String[] args) {
-    // Teste de exemplo
-    System.out.println(calcularEquivalencia(10, 22, 4)); // true
-    System.out.println(calcularEquivalencia(15, 8, 7)); // true
-    System.out.println(calcularEquivalencia(9, 4, 3)); // false
-    System.out.println(calcularEquivalencia(20, 5, 5)); // false
-  }
 }
